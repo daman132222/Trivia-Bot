@@ -10,7 +10,7 @@ __IF WANT ANY HELP__
 
 # **ADD MY MULTIPURPOSE BOT TO YOUR SERVER**
 
-`LINK :-` https://discord.com/api/oauth2/authorize?client_id=985881956367626240&permissions=8&scope=bot
+`LINK :-` *https://discord.com/api/oauth2/authorize?client_id=985881956367626240&permissions=8&scope=bot*
 `BOT_PREFIX :-` `e!` or `E!`
 
 
